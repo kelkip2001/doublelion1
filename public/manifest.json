@@ -1,6 +1,6 @@
 {
-  "short_name": "Easye-commerce",
-  "name": "Easy e-commerce",
+  "short_name": "Easy e-commerce",
+  "name": "Easy commerce",
   "description":"Easy ecommerce System",
   "lang":"en-US",
   "start_url": "/",
@@ -11,13 +11,13 @@
   "icons": [
     {
       "src": "72.png",
-      "sizes": "72*72",
+      "sizes": "72x72",
       "type": "image/png"
     },
     {
       "src": "96.png",
       "type": "image/png",
-      "sizes": "96*96"
+      "sizes": "96x96"
     },
     {
       "src": "120.png",
@@ -26,7 +26,7 @@
     },
     {
       "src": "128.png",
-      "sizes": "128*128",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
@@ -40,7 +40,7 @@
       "sizes": "152x152"
     },{
       "src": "180.png",
-      "sizes": "180*180",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
