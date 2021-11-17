@@ -5,6 +5,7 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/assests/css/custom.css';
 import '../src/assests/css/fontawesome.css';
+import '../src/assests/css/animate.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
